@@ -1,6 +1,6 @@
 <h1>Created by Farhan Alam</h1>
 <h1>Desktop & Mobile Application</h1>
-<p>
+<h3>
 Install Node.js and create a new React app using:
 
 npx create-react-app todo-app
@@ -23,5 +23,8 @@ Input field for adding todos.
 List to display todos.
 Buttons for deleting and marking todos as done.
 Style the app using basic CSS in App.css.
-</p>
+</h3>
+
+<h1> Thank you for giving me your valuable time</h1>
+<img src= "banner.png">
 
